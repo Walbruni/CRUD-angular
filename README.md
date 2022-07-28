@@ -1,4 +1,5 @@
-# AsyncAngular
+# CRUD-Angular
+Repositório de estudos em Angular com criação de CRUD, To Do, Data Binding e Pipes.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
 
